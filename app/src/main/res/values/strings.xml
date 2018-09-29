@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RuzTrishaMarieLab4</string>
+    <string name="title">Sea World Gold Coast</string>
+    <string name="location">Location: Seaworld Dr, Main Beach QLD 4217, Australia</string>
+    <string name="distance">Distance from UST: 5,878 km</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
